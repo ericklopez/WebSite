@@ -2353,10 +2353,6 @@ img {
   border-style: none;
 }
 
-img.size{
-  width: 600px;
-  height: 600px;
-}
 /**
  * Hide the overflow in IE.
  */
